@@ -1,0 +1,11 @@
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation.deps.json
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation.runtimeconfig.json
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation.runtimeconfig.dev.json
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation.dll
+/home/will/cs/vscode/Backpropagation/bin/Debug/netcoreapp3.1/Backpropagation.pdb
+/home/will/cs/vscode/Backpropagation/obj/Debug/netcoreapp3.1/Backpropagation.csprojAssemblyReference.cache
+/home/will/cs/vscode/Backpropagation/obj/Debug/netcoreapp3.1/Backpropagation.AssemblyInfoInputs.cache
+/home/will/cs/vscode/Backpropagation/obj/Debug/netcoreapp3.1/Backpropagation.AssemblyInfo.cs
+/home/will/cs/vscode/Backpropagation/obj/Debug/netcoreapp3.1/Backpropagation.dll
+/home/will/cs/vscode/Backpropagation/obj/Debug/netcoreapp3.1/Backpropagation.pdb
